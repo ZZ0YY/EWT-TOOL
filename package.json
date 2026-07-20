@@ -1,0 +1,19 @@
+{
+  "name": "answer-userscript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/tampermonkey": "^5.0.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.1.5",
+    "vite-plugin-monkey": "^8.0.6"
+  }
+}
