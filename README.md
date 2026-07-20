@@ -37,9 +37,11 @@
 ### 第二步：安装本脚本
 
 - **方法一（推荐）：** 从 Greasy Fork 安装
-  1. 访问 Greasy Fork 安装页面：[[链接待替换](https://greasyfork.org/zh-CN/scripts/587786-%E5%8D%87%E5%AD%A6e%E7%BD%91%E9%80%9A%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-%E6%94%AF%E6%8C%81%E4%B8%80%E9%94%AE%E6%8F%90%E4%BA%A4%E8%AF%95%E5%8D%B7%E5%B9%B6%E5%85%A8%E5%AF%B9-bot%E6%94%AF%E6%8C%81%E4%B8%80%E9%94%AE%E5%88%B7%E8%AF%BE)]
-  2. 点击「安装此脚本」按钮
-  3. 在弹出的页面中点击「安装」
+  1. 访问直链安装页面：[[下载链接](https://photo1.540601.xyz/file/telegram/油猴脚本/1784515009838_ewt-paper-helper.user.js)]
+  这是 Greasy Fork 页面：[[不需要点击](https://greasyfork.org/zh-CN/scripts/587786-%E5%8D%87%E5%AD%A6e%E7%BD%91%E9%80%9A%E5%88%B7%E8%AF%BE%E5%8A%A9%E6%89%8B-%E6%94%AF%E6%8C%81%E4%B8%80%E9%94%AE%E6%8F%90%E4%BA%A4%E8%AF%95%E5%8D%B7%E5%B9%B6%E5%85%A8%E5%AF%B9-bot%E6%94%AF%E6%8C%81%E4%B8%80%E9%94%AE%E5%88%B7%E8%AF%BE)]
+  3. 点击「安装此脚本」按钮
+  4. 在弹出的页面中点击「安装」
+
 
 - **方法二：** 从 GitHub Release 安装
   1. 进入本仓库的 [Releases 页面](https://github.com/ZZ0YY/EWT-TOOL/releases)
@@ -111,7 +113,7 @@
 ### 刷课程（视频/FM）请使用 TG 机器人
 
 如果需要刷课程视频或 FM 打卡任务，请使用我们的 TG 机器人：
-[@ewtkillbot](https://t.me/ewtkillbot) — 免费提供刷课服务，支持视频、FM、试卷全自动完成。
+[刷课机器人](https://t.me/ewtkillbot) — 免费提供刷课服务，支持视频、FM、试卷全自动完成。
 
 ### 隐私说明
 
