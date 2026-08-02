@@ -1,6 +1,7 @@
 # 升学e网通刷课助手
 
 > 支持一键获取E网通试卷答案并自动填写提交，全部免费 🆓
+> 使用TG Bot支持自动刷视频，快速刷视频[刷课机器人](https://t.me/ewtkillbot)
 
 ![userscript](https://img.shields.io/badge/Tampermonkey-油猴脚本-brightgreen)
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
